@@ -81,6 +81,7 @@
             }
             @media screen and (min-width: 769px){
                 html{
+                    /*  Chargement d'une plus petite image pour telephone  */
                     background-image: url("img/background-desktop.png");
                     background-position: top;
                 }

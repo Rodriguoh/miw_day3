@@ -20,13 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0164cd2f-19b6-430e-9513-364405f51ece" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/123cce5a622d3ea6cce2ea6bee19aa9c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/269e840b92958ecce18ad22b6f9e008c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/4c5291ff9cdde2cd2a42eb31c06d0e51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/d60104a4fcbec40ebf5255dd723a6582.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sent-mail.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/email/email_party.html" beforeDir="false" afterPath="$PROJECT_DIR$/email/email_party.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/gmail_desktop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/gmail_mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/thunderbird.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/123cce5a622d3ea6cce2ea6bee19aa9c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/269e840b92958ecce18ad22b6f9e008c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4c5291ff9cdde2cd2a42eb31c06d0e51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/d60104a4fcbec40ebf5255dd723a6582.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/send_email.php" beforeDir="false" afterPath="$PROJECT_DIR$/send_email.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +96,7 @@
       <workItem from="1605961399196" duration="21139000" />
       <workItem from="1606123158083" duration="77000" />
       <workItem from="1606148550080" duration="720000" />
-      <workItem from="1606291423284" duration="11343000" />
+      <workItem from="1606291423284" duration="14502000" />
     </task>
     <servers />
   </component>
@@ -120,5 +123,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="493" y="197" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606152772169" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1606330672969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1606330672969" />
   </component>
 </project>

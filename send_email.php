@@ -22,15 +22,15 @@ try {
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` also accepted
     $mail->Port       = 587;
     $mail -> CharSet = "UTF-8";
-    // TCP port to connect to
+// TCP port to connect to
 
     //Recipients
     $mail->setFrom('contact@rodriguoh.fr', 'MIW Party');
     $mail->addAddress($_GET['email']);     // Add a recipient
 
     // Attachments
-    //$mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
-    //$mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
+//    $mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
+//    $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
 
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
